@@ -1,0 +1,8 @@
+File path :C:\Users\SAWARIYA SETH\Desktop\Python37\Assignments\Demo.txt
+File size :48 in bytes
+Date and time :23-07-2026_ 08:24:15 PM
+________________________________________
+File path :C:\Users\SAWARIYA SETH\Desktop\Python37\Assignments\Demo.txt
+File size :48 in bytes
+Date and time :23-07-2026_ 08:24:45 PM
+________________________________________
