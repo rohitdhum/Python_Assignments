@@ -1,0 +1,1557 @@
+__________________________________________________
+_____Automated Platform Survillence System_____
+Log file gets created at :2026-07-29_13-10-19
+__________________________________________________
+----------System report----------
+Number of active CPU usage : 4
+CPU usage : 4.1 %
+__________________________________________________
+RAM usage : 65.0 %
+Total RAM available : 10599772160
+__________________________________________________
+Network Usage Report
+Sent : 40.271995 MB
+Recieve : 244.193355 MB
+PID : 0
+Name: System Idle Process
+UserName: NT AUTHORITY\SYSTEM
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.00
+__________________________________________________
+PID : 4
+Name: System
+UserName: NT AUTHORITY\SYSTEM
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 124
+Name: Registry
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.23
+__________________________________________________
+PID : 128
+Name: RuntimeBroker.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 496
+Name: fontdrvhost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.02
+__________________________________________________
+PID : 528
+Name: smss.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.00
+__________________________________________________
+PID : 628
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 676
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.35
+__________________________________________________
+PID : 680
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 712
+Name: csrss.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 776
+Name: fontdrvhost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 784
+Name: wininit.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 792
+Name: csrss.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 856
+Name: winlogon.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 872
+Name: mscopilot.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.14
+__________________________________________________
+PID : 932
+Name: services.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 960
+Name: lsass.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.22
+__________________________________________________
+PID : 1068
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.17
+__________________________________________________
+PID : 1124
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 1168
+Name: WUDFHost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 1236
+Name: dwm.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.52
+__________________________________________________
+PID : 1252
+Name: igfxHK.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 1352
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 1376
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 1500
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 1508
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 1520
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 1596
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 1652
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 1668
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 1724
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 1772
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 1780
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 1900
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.04
+__________________________________________________
+PID : 1984
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.36
+__________________________________________________
+PID : 2024
+Name: igfxEM.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 2068
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 2160
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 2208
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 2216
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 2232
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.23
+__________________________________________________
+PID : 2236
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 2244
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 2280
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 2292
+Name: taskhostw.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 2332
+Name: MemCompression
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 6.72
+__________________________________________________
+PID : 2356
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 2416
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.56
+__________________________________________________
+PID : 2440
+Name: igfxCUIService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 2476
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 2484
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 2536
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 2568
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 2636
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 2644
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 2660
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 6.20
+__________________________________________________
+PID : 2704
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 2724
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 2740
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 2776
+Name: StartMenuExperienceHost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.23
+__________________________________________________
+PID : 2920
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.80
+__________________________________________________
+PID : 2928
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 2948
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 2984
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 3020
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 3080
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 3108
+Name: spoolsv.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 3136
+Name: SearchHost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.06
+__________________________________________________
+PID : 3160
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 3208
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 3224
+Name: ShellExperienceHost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : stopped
+CPU Usage : 0.00
+RAM Usage : 0.78
+__________________________________________________
+PID : 3320
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 3372
+Name: NisSrv.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 3376
+Name: agr64svc.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 3384
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 3408
+Name: BtwRSupportService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 3420
+Name: fpCSEvtSvc.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 3428
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.43
+__________________________________________________
+PID : 3452
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 2.47
+__________________________________________________
+PID : 3468
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 3516
+Name: igfxTray.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 3544
+Name: OfficeClickToRun.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.49
+__________________________________________________
+PID : 3628
+Name: MpDefenderCoreService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.24
+__________________________________________________
+PID : 3656
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 3684
+Name: SynTPEnhService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 3700
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 3724
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 3752
+Name: valWBFPolicyService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 3768
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 3788
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.00
+__________________________________________________
+PID : 3796
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.24
+__________________________________________________
+PID : 3804
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 3864
+Name: MsMpEng.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.82
+__________________________________________________
+PID : 3912
+Name: mysqld.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 3932
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 3940
+Name: RuntimeBroker.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.53
+__________________________________________________
+PID : 3960
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 3980
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 4076
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 4120
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.41
+__________________________________________________
+PID : 4188
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 4252
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 4396
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.17
+__________________________________________________
+PID : 4432
+Name: SDXHelper.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.38
+__________________________________________________
+PID : 4656
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 4664
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 4696
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 4720
+Name: mysqld.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.39
+__________________________________________________
+PID : 4776
+Name: conhost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.04
+__________________________________________________
+PID : 4812
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.30
+__________________________________________________
+PID : 4840
+Name: sihost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.44
+__________________________________________________
+PID : 4928
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.36
+__________________________________________________
+PID : 5100
+Name: SynTPEnh.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 5380
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 5400
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.26
+__________________________________________________
+PID : 5412
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.23
+__________________________________________________
+PID : 5424
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 5528
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.30
+__________________________________________________
+PID : 5648
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 6064
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 6088
+Name: taskhostw.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 6140
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.23
+__________________________________________________
+PID : 6336
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.87
+__________________________________________________
+PID : 6360
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 6376
+Name: python.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 6432
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 6516
+Name: explorer.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 3.46
+__________________________________________________
+PID : 6564
+Name: SynTPHelper.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.05
+__________________________________________________
+PID : 6592
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.38
+__________________________________________________
+PID : 6716
+Name: WhatsApp.Root.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.68
+__________________________________________________
+PID : 6820
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 6860
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 6912
+Name: CrossDeviceResume.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 7220
+Name: Widgets.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.66
+__________________________________________________
+PID : 7544
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.56
+__________________________________________________
+PID : 7728
+Name: OneDrive.Sync.Service.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 7780
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 7860
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.46
+__________________________________________________
+PID : 7864
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 7912
+Name: SecurityHealthService.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.24
+__________________________________________________
+PID : 8000
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.55
+__________________________________________________
+PID : 8040
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.04
+__________________________________________________
+PID : 8140
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.01
+__________________________________________________
+PID : 8456
+Name: ctfmon.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.22
+__________________________________________________
+PID : 8552
+Name: OneDrive.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.60
+__________________________________________________
+PID : 8604
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 8712
+Name: SecurityHealthSystray.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 8820
+Name: mscopilot.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 9236
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.38
+__________________________________________________
+PID : 9380
+Name: SearchIndexer.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.27
+__________________________________________________
+PID : 9592
+Name: RuntimeBroker.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 9640
+Name: WidgetService.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 9704
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 9852
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 9936
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.56
+__________________________________________________
+PID : 10000
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 2.23
+__________________________________________________
+PID : 10060
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.55
+__________________________________________________
+PID : 10384
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.03
+__________________________________________________
+PID : 10624
+Name: RuntimeBroker.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.21
+__________________________________________________
+PID : 10772
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 11036
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.94
+__________________________________________________
+PID : 11144
+Name: conhost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 11424
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.56
+__________________________________________________
+PID : 11508
+Name: SearchProtocolHost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.20
+__________________________________________________
+PID : 11632
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 11684
+Name: FileCoAuth.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.25
+__________________________________________________
+PID : 11692
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 2.70
+__________________________________________________
+PID : 11724
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.96
+__________________________________________________
+PID : 11984
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.37
+__________________________________________________
+PID : 12060
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.31
+__________________________________________________
+PID : 12152
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.39
+__________________________________________________
+PID : 12340
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 12424
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.00
+__________________________________________________
+PID : 12588
+Name: svchost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 12632
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 12704
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 12988
+Name: mscopilot.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.36
+__________________________________________________
+PID : 13112
+Name: mscopilot.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.28
+__________________________________________________
+PID : 13196
+Name: RuntimeBroker.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.12
+__________________________________________________
+PID : 13252
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 13328
+Name: PhoneExperienceHost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.46
+__________________________________________________
+PID : 13392
+Name: ShellHost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.42
+__________________________________________________
+PID : 13492
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 13604
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.09
+__________________________________________________
+PID : 13636
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 13652
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 13680
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.01
+__________________________________________________
+PID : 13716
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.13
+__________________________________________________
+PID : 13824
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 13908
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.37
+__________________________________________________
+PID : 13932
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.51
+__________________________________________________
+PID : 13956
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 14364
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 14592
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.91
+__________________________________________________
+PID : 14600
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.52
+__________________________________________________
+PID : 14624
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.14
+__________________________________________________
+PID : 14888
+Name: WindowsTerminal.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.76
+__________________________________________________
+PID : 15104
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.76
+__________________________________________________
+PID : 15220
+Name: audiodg.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.10
+__________________________________________________
+PID : 15352
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 15440
+Name: msedgewebview2.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 5.38
+__________________________________________________
+PID : 15676
+Name: mscopilot.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.19
+__________________________________________________
+PID : 15864
+Name: pet.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.08
+__________________________________________________
+PID : 15928
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.34
+__________________________________________________
+PID : 15996
+Name: mscopilot.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.18
+__________________________________________________
+PID : 16112
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 5.11
+__________________________________________________
+PID : 16312
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.16
+__________________________________________________
+PID : 16320
+Name: chrome.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 16468
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.56
+__________________________________________________
+PID : 16496
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.03
+__________________________________________________
+PID : 16552
+Name: M365Copilot.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.11
+__________________________________________________
+PID : 16644
+Name: svchost.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 16900
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 1.49
+__________________________________________________
+PID : 17012
+Name: elevation_service.exe
+UserName: None
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.15
+__________________________________________________
+PID : 17136
+Name: SDXHelper.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.30
+__________________________________________________
+PID : 17520
+Name: powershell.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.56
+__________________________________________________
+PID : 17624
+Name: OpenConsole.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.11
+__________________________________________________
+PID : 17700
+Name: cmd.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.06
+__________________________________________________
+PID : 18016
+Name: conhost.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 0.07
+__________________________________________________
+PID : 18040
+Name: Code.exe
+UserName: DESKTOP-4D1QMDB\SAWARIYA SETH
+Status : running
+CPU Usage : 0.00
+RAM Usage : 2.69
+__________________________________________________
+__________________________________________________
+----------End of log file----------
+__________________________________________________
